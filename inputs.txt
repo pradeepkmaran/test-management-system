@@ -1,0 +1,56 @@
+1
+5
+1001
+Pradeep
+pradeep@gmail
+1002
+Achu
+achu@gmail.com
+1003
+Abishna
+abishna@ssn.edu.in
+1004
+Shaun
+shaun@gmail.com
+1005
+Shreya
+shreya@ssn.edu.in
+2
+2
+1001
+pradeep@gmail.com
+2
+1
+1002
+Aswathy
+3
+1
+5
+CAT1
+11/2/2023
+UPH2345
+Engineering Physics
+CAT1
+12/2/2023
+UCH2345
+Engineering Chemistry
+CAT1
+13/2/2023
+UPY2345
+Python
+CAT2
+14/2/2023
+UCH2345
+Engineering Chemistry
+CAT2
+15/2/2023
+UEN2345
+Technical English
+3
+Pradeep Abishna
+Aswathy Pradeep
+Shaun Pradeep
+Shreya Abishna Pradeep Aswathy
+Aswathy Pradeep Abishna
+1001
+UCH2345
